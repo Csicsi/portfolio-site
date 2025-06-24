@@ -1,0 +1,21 @@
+# dependencies
+/node_modules
+
+# production
+/dist
+
+# Vite cache
+/.vite
+
+# local env files
+.env
+.env.*
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode / Codespaces
+.vscode
+*.code-workspace
